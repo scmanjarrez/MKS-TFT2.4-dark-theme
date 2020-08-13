@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="bmp_ru_sel.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg20"
+   version="1.1"
+   viewBox="0 0 20.637499 27.516666"
+   height="27.516666mm"
+   width="20.637499mm">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showguides="true"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="42.848876"
+     inkscape:cx="50.858621"
+     inkscape:zoom="8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       spacingy="0.2822231"
+       spacingx="0.2822231"
+       empopacity="0.25098039"
+       empcolor="#ff0000"
+       dotted="true"
+       originy="0.011324242"
+       originx="1.4059644"
+       id="grid1514"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-61.309483,14.159237)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#505050;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.520245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 61.309483,-14.159237 h 20.6375 V 13.35743 h -20.6375 z"
+       id="path4808-7"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0.26458334,0,0,0.26458333,45.64365,-11.699746)"
+       id="g1543">
+      <rect
+         y="73.209442"
+         x="-34.791271"
+         height="50"
+         width="14"
+         id="rect831"
+         style="fill:#0072ce;fill-opacity:1;stroke:none;stroke-width:0.472915;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <rect
+         y="73.209442"
+         x="-48.794209"
+         height="50"
+         width="14"
+         id="rect831-4"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.472915;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <rect
+         y="73.209442"
+         x="-20.7962"
+         height="50"
+         width="14"
+         id="rect831-4-8"
+         style="display:inline;fill:#ef3340;fill-opacity:1;stroke:none;stroke-width:0.472917;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-90)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.63021px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="64.25901"
+       y="10.354378"
+       id="text4803-5"><tspan
+         style="stroke-width:0.264583px"
+         y="10.354378"
+         x="64.25901"
+         id="tspan1516"
+         sodipodi:role="line">Russian</tspan></text>
+  </g>
+</svg>
